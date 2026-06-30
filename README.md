@@ -8,8 +8,8 @@
 
 I have writeups for Hack The Box, TryHackMe and CTF challenges. Click the icons below.
 
-<a href="https://github.com/Aquellis/HTB"><img src="https://github.com/Aquellis/HTB/blob/main/Images/HTB_logo.PNG" width="120"></a>
-<a href="https://github.com/Aquellis/TryHackMe"><img src="https://github.com/KC-SecEng/KC-SecEng/blob/main/Images/THM_logo.PNG" width="150"></a>
+<a href="https://github.com/Aquellis/HTB"><img src="https://github.com/Aquellis/HTB/blob/main/Images/HTB_logo.PNG" width="120"></a>&nbsp;&nbsp;
+<a href="https://github.com/Aquellis/TryHackMe"><img src="https://github.com/KC-SecEng/KC-SecEng/blob/main/Images/THM_logo.PNG" width="150"></a>&nbsp;&nbsp;
 <a href="https://github.com/Aquellis/CTF_Writeups"><img src="https://github.com/KC-SecEng/KC-SecEng/blob/main/Images/CTF_icon.png" width="120"></a>
 
 ---
