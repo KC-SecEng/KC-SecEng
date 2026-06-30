@@ -12,10 +12,10 @@ I have writeups for Hack The Box, TryHackMe and CTF challenges. Click the icons 
   <img src="https://github.com/Aquellis/HTB/blob/main/Images/HTB_logo.PNG" width="110">
 </a>
 <a href="https://github.com/Aquellis/TryHackMe">
-  <img src="../Images/THM_logo.PNG" width="110">
+  <img src="https://github.com/KC-SecEng/KC-SecEng/blob/main/Images/THM_logo.PNG" width="110">
 </a>
 <a href="https://github.com/Aquellis/CTF_Writeups">
-  <img src="../Images/CTF_icon.png" width="110">
+  <img src="https://github.com/KC-SecEng/KC-SecEng/blob/main/Images/CTF_icon.png" width="110">
 </a>
 
 ---
